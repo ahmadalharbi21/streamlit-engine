@@ -1,8 +1,7 @@
 import streamlit as st
 
-# Title of the app
-st.title("ميزانيتي محدودة وادور سيارة")
-st.title("                  كشخة")
+# Title of the app\
+st.markdown("<h2 style='text-align: center; color: white;'>🚗ميزانيتي محدودة وادور سيار كشخه  </h2>", unsafe_allow_html=True)
 
 
 
