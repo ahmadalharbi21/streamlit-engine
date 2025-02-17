@@ -14,4 +14,4 @@ def print_hi(name):
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
         st.set_page_config(page_title="What car", layout="wide", initial_sidebar_state="expanded")
-
+        st.write("hello")
